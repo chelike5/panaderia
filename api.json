@@ -1,0 +1,14 @@
+[
+    {
+        "precio": 0.50,
+        "id": "embutidos",
+        "titulo": "charcuteria",
+        "imagen": "embutidos.jpg"
+    },
+    {
+        "precio": 0.50,
+        "id": "chuletas",
+        "titulo": "charcuteria",
+        "imagen": "pexels-los-muertos-crew-8477071.jpg"
+    }
+]
